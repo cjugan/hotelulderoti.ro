@@ -1,2 +1,2 @@
 # hotelulderoti.ro
-MAin Folder
+Main Folder
